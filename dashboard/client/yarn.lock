@@ -190,10 +190,10 @@
     prop-types "^15.7.2"
     react-is "^16.8.0 || ^17.0.0"
 
-"@next/bundle-analyzer@^13.0.5":
-  version "13.0.5"
-  resolved "https://registry.yarnpkg.com/@next/bundle-analyzer/-/bundle-analyzer-13.0.5.tgz#d1ccd1b1c1f50bb19f606711e2fe2095a78fe432"
-  integrity sha512-45q05yO6ZqS5NHHaxnU/PsVdMw5XfT6d7CptFaIr/9O2nECDjhM56G5JQx+346fkI76l1embxkLBzoQByTYGKQ==
+"@next/bundle-analyzer@^13.5.8":
+  version "13.5.8"
+  resolved "https://registry.yarnpkg.com/@next/bundle-analyzer/-/bundle-analyzer-13.5.8.tgz#3d9929cb2e893e048b57f14342c053431c6b8326"
+  integrity sha512-B/6xFehMbPnBqw6Wtf0iWuOTTHAmymeKS5xKOlaEG0BrGffGZGQ3KTJycMYG6ujLG9A2uCcuTX2vd0M6F5xM3w==
   dependencies:
     webpack-bundle-analyzer "4.7.0"
 
