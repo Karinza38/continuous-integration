@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ubuntu:24.10
 
 # https://cloud.google.com/sdk/docs/quickstart-debian-ubuntu
 RUN apt-get update \
